@@ -1,0 +1,281 @@
+body {
+background-image: url('/public/iconimage.JPG')
+}
+.topNav{
+    position: relative;
+    width: 1280px;
+    height: 72px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.17);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ndhhd{
+    position: absolute;
+    width: 100px;
+    height: 38px;
+    left: 24px;
+    top: 19px;
+}
+
+.dhhdhd{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #232323;
+    padding-left: 60px;
+}
+
+.nfnff{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #232323;
+}
+
+
+.dhdgdg{
+    position: absolute;
+    left: 1056.75px;
+    top: 18px;
+    width: 96px;
+    height: 36px;
+    border: 1px solid Green;
+    box-sizing: border-box;
+    background-color:white;
+    border-radius: 6px;
+    color: Green;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    float: right;
+}
+
+.ddbdbd{
+    position: absolute;
+    width: 78px;
+    height: 36px;
+    left: 1177.75px;
+    top: 18px;
+
+    background: #14967B;
+    box-shadow: 0px 4px 5px rgba(20, 150, 123, 0.08);
+    border-radius: 6px;
+}       
+
+.tab button {
+   
+    font-size: 16px;
+    line-height: 19px;
+    color: #AFAFAF;
+
+    margin-top: 19px;
+    background-color: transparent;
+    border: transparent;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.tab .Active{
+    font-weight: bold;
+    color :#5BC2A8 ;
+    border-bottom: 3px #5BC2A8 solid;
+}
+
+.fhhfh{
+    position: relative;
+    width: 941.02px;
+    height: 506.86px;
+    left: 169.49px;
+    top: 112.85px;    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
+    border-radius: 0px 10px 10px 0px;
+    margin-right:20px;
+    margin-bottom: 15%;
+       
+}
+
+.hfhfh{
+    position: relative;    
+    background: #FFFFFF;    
+    display: flex;
+    flex-direction: row;
+    width: 941.02px;
+    
+}
+
+.jaldill{
+    padding-left: 10px;
+    height: 506.86px;
+    overflow-y: scroll;     
+}
+
+.jaldill::-webkit-scrollbar {
+    width:5px;    
+}
+
+.jaldill::-webkit-scrollbar-track {
+    background: #B9E4D9;;
+  }
+
+.jaldill::-webkit-scrollbar-thumb {
+    background: #5BC2A8;;
+  }  
+
+
+.jdhdh{
+    width: 108.04px;
+    height: 38.89px;
+    margin-left: 39%;
+    
+    padding-top:-55%;
+    overflow: visible;
+    
+
+    background: #FFFFFF;
+    border: 1px solid #14967B;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 4px; 
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #14967B;
+    
+}
+
+.Aasdg{
+    
+    width: 370.01px;
+    height: 506.86px;    
+    border-radius: 6px 0px 0px 6px;
+    background: black;
+}
+
+.fhhfh{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;    
+}
+
+
+.nfffjf{
+    width: 20.93px;
+    border: 1px solid #797979;
+    transform: rotate(90deg);
+}
+
+.hdhufj{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    padding-left: 60px;
+}
+
+.Education{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    padding-left: 60px;
+
+}
+
+.hfhddf{
+    font-size: 12px;
+    line-height: 14px;
+    background: #5BC2A8;
+    width: 76.71px;
+    height: 22.09px;
+    color: #FFFFFF;
+
+}
+.jffbfk, .hdhufj, .Education{
+    color: #5BC2A8;
+}
+
+.hfhddf{
+    width: 76.71px;
+    background: #5BC2A8;
+    border-radius: 4px;
+    color: white;
+    height: 22.09px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    
+}
+
+.nfnff{
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.EducationDegree, .CompanyName{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    
+}
+
+.EducationDegree{
+    padding-left: 60px;
+}
+
+.Institute{
+    padding-left: 60px;
+}
+
+.JobTitle, .Institute {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.TimePeriod{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;
+    color: #AFAFAF;
+}
+
+.fnnffk{
+    margin-right: 92.51;
+}
+.AboutRole{
+   
+    white-space: normal;
+    
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.hhsggd{
+    width: 47.54px;
+    height: 51.15px;
+    border-radius: 4px;
+    top: 288.39px;
+}
+
+.kjsnsn{
+    
+    display: flex;
+}
+
+.ahdbd{
+    padding-top: 20px;
+    padding-right: 20px;
+}
